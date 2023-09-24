@@ -1,7 +1,7 @@
 {
   "ads": [
     {
-      "ad_status": "on",
+      "ad_status": "off",
       "ad_type": "admob",
       
       "admob_publisher_id": "pub-1234819124237609",
@@ -24,80 +24,11 @@
   ],
   "settings": [
     {
-      "ad_time": "50000",
+      "ad_time": "10000",
       "ad_time_rate": "80",
-      "quran_link":"https://ia802802.us.archive.org/28/items/www.elahmad.com_69/" ,
+      "quran_link":"https://server16.mp3quran.net/h_saleh/Rewayat-Hafs-A-n-Assem/" ,
       "facebook":"https://m.facebook.com/QoranFull" ,
       "twitter":"https://mobile.twitter.com/FreeQuranMp3" ,
       "insagram":"https://www.instagram.com/lestenquran"
 
-    }
-  ],
-
-  "ICON":  [
-    {
-
-      "icon": "https://lh3.googleusercontent.com/JWGUJF93zopQnYtGRRqXhWaNqsO8J5KEWqHHLu9JfnvZ9sinWkbmfmctZXgyK1rxdgI",
-      "name": "حسن صالح قرآن كريم دون نت ®",
-      "number_download": "10 000+",
-      "package": "alquran.full.hasansalih.audio" },
-
-    {"icon": "https://play-lh.googleusercontent.com/tMPBhv12kDJzz9j5Z4y-LeUS-hRXB6kerBaqA5oR2e5NLS3U401nxB0ue4vPApOyoyg=s180-rw",
-      "name": "نورين محمد صديق قرآن دون نت ®",
-      "number_download": "20 000+",
-      "package": "alquran.full.nounayne1.audio"},
-
-    {"icon": "https://lh3.googleusercontent.com/X4-74EIvvOfsbBY--ozf0uIfECtR7q1OS7l36I8FziSK9DMv2-onmTrPHqtWtAhwqHI",
-      "name": "ياسر الدوسري قرآن كامل بدون نت ®",
-      "number_download": "40 000+",
-      "package": "alquran.full.yacerdaoussari1.audio"},
-
-
-    {"icon": "https://lh3.googleusercontent.com/rJmsIkFI3jhjZOLT_emsWPNT1xCiPP7LS2DBuprpxiF_Jhg_dYeQdfM_8_bKhedK3Q",
-      "name": "قرآن الدوكالي العالم بدون نت ®",
-      "number_download": "70 000+",
-      "package": "alquran.full.dokalilaallem23.audio"},
-
-    {"icon": "https://lh3.googleusercontent.com/q_DuDO9Lh6PoK4tXZlu4ka2xX-4gwcPYIpG8I1pRoVNX_EQ5d-ERrPAQjeJ536vG9TlR",
-      "name": "العجمي أحمد قرآن بدون نت®",
-      "number_download": "30 000+",
-      "package": "alquran.full.ahmdalialajami21.audio"},
-
-
-    {"icon": "https://lh3.googleusercontent.com/jGk85aWcGuSzadsEJUye_sXKOx6zCQZRe6Wh_JbV2tDX_UZfTSLmxNaWazASe3N0pg",
-      "name": "خالد الجليل قرآن مرتل بدون نت®",
-      "number_download": "40 000+",
-      "package": "alquran.full.khalidlgalil22.audio"},
-
-    {"icon": "https://lh3.googleusercontent.com/w0pjRaK4PiOnXh_vglfpw10-sTBteelJAzvQNBNfAD2xgRlejiHXa31SLQyq4MwpwQ",
-      "name": "قرآن سعد الغامدي كاملا بدون نت ®",
-      "number_download": "15 000+",
-      "package": "alquran.full.saadelghamidi65.audio"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }]}
+       }]}
