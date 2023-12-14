@@ -18,13 +18,13 @@
       "unity_interstitial_placement_id": "video",
       "applovin_banner_unit_id": "0cddb50bea108adb",
       "applovin_interstitial_unit_id": "2f98338194949e0e",
-      "interstitial_ad_interval": 10
+      "interstitial_ad_interval": 5
 
     }
   ],
   "settings": [
     {
-      "ad_time": "10000",
+      "ad_time": "15000",
       "ad_time_rate": "80",
       "quran_link":"https://ia802802.us.archive.org/28/items/www.elahmad.com_69/" ,
       "facebook":"https://m.facebook.com/QoranFull" ,
